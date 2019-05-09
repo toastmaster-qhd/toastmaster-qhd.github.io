@@ -1,25 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>TM</title>
-    <style>
-      body {
-        max-width: 100%;
-      }
-      img {
-        max-width: 100%;
-      }
-    </style>
-  </head>
-  <body>
-    <h1 style="text-align: center">Toastmaster Qinhuangdao</h1>
+---
+layout: default
+---
 
-    <img
-      style="display: block; margin: 0 auto"
-      src="https://user-images.githubusercontent.com/72467/54079085-02619c80-4310-11e9-98dd-e15c53ad1c21.png"
-    />
-  </body>
-</html>
+<div class="home">
+
+  <h1>Posts</h1>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
