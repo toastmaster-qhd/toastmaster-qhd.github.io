@@ -1,6 +1,6 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Mr Bear
+subtitle: Tech Talk On Petroleum
 layout: default
 modal-id: 6
 date: 2014-07-15
