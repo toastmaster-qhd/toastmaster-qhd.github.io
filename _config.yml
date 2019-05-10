@@ -10,14 +10,10 @@ description: 'Write an awesome description for your new site here. You can edit 
 people:
   - name: Peter Wang
     pic: 1
-    position: COO
+    position: COO and Maintainer Of This Site
     social:
       - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: stack-overflow
-        url: #
+        url: https://twitter.com/happypeter1983
 
   - name: Ben
     pic: 2
