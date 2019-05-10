@@ -21,10 +21,6 @@ people:
     social:
       - title: twitter
         url: #
-      - title: facebook
-        url: #
-      - title: linkedin
-        url: #
   - name: Ping
     pic: 3
     position: CFO
@@ -35,11 +31,7 @@ people:
     pic: 4
     position: Secretary
     social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: google-plus
+      - title: wechat
         url: #
   - name: Catherine
     pic: 5
@@ -57,32 +49,20 @@ people:
     pic: 7
     position: General Evaluator
     social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: google-plus
+      - title: wechat
         url: #
 
   - name: XinZe Shi
     pic: 8
     position: VP
     social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: google-plus
+      - title: wechat
         url: #
   - name: Candy
     pic: 9
     position: Active Contributor
     social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: google-plus
+      - title: wechat
         url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
