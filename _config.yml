@@ -29,11 +29,7 @@ people:
     pic: 3
     position: CFO
     social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: google-plus
+      - title: wechat
         url: #
   - name: Tricia
     pic: 4
@@ -49,22 +45,14 @@ people:
     pic: 5
     position: Hostess
     social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: google-plus
-        url: #
+      - title: wechat
+        url: https://toastmaster-qhd.github.io/img/team/catherine.jpg
   - name: Yolanda
     pic: 6
     position: Hostess
     social:
-      - title: twitter
-        url: #
-      - title: facebook
-        url: #
-      - title: google-plus
-        url: #
+      - title: wechat
+        url: https://toastmaster-qhd.github.io/img/team/yolanda.jpg
   - name: Lily
     pic: 7
     position: General Evaluator
